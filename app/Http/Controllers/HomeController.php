@@ -102,6 +102,10 @@ class HomeController extends Controller
 
          // --------------- commands and shedule
 
+          // Schedule::command(command name)->daily()
+          //php artisan shedule:run
+              
+
 
 
          // --------------------  ajax
